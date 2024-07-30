@@ -58,4 +58,8 @@ int main(void)
 
 I hope you will enjoy using my lightweight and portable RT for C++!
 
+If you wanna request an update, but not wanna to implement it, contact me in [Telegram](https://t.me/vi_is_lonely) about that ;)
+If you wanna to apply your implemented update, just make a pull request, as usual, updating README also
+`Issues` exists if you wanna report a bug :)
+
 Good luck ;>
