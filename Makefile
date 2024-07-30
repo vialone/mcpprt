@@ -1,6 +1,6 @@
 all: clean test run
 test: example mrt
-	@ld -lc main.o mrt.o
+	@ld -lc main.o mrt.o -o a.out
 mrt:
 	@g++ -g -fno-rtti -fno-exceptions -c mrt.cpp -o mrt.o
 example:
